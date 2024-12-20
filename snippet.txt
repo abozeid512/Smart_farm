@@ -1,0 +1,7 @@
+<model-viewer src="untitled.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1.62" exposure="1.86" auto-rotate min-camera-orbit="auto auto 1371m" min-field-of-view="30deg"><button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
